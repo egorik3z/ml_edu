@@ -54,4 +54,5 @@ if __name__ == '__main__':
     out_fpaths = [os.path.join(out_dirpath, fname) for fname in in_fnames]
 
     for in_fpath, out_fpath in zip(in_fpaths, out_fpaths):
+        print(f'Processing {in_fpath}')
         remove_solutions(in_fpath, out_fpath)
