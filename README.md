@@ -20,6 +20,8 @@
 
 ## Ресурсы
 
+### Python
+
 - Адаптивный тренажер https://stepik.org/course/512 
 - Курс по Python https://stepik.org/course/431 
 - Курс по основам http://pythontutor.ru/ 
@@ -30,3 +32,19 @@
 - Платформы с задачками:
     - https://checkio.org/ 
     - https://www.codewars.com/ 
+
+### ML
+
+- Очень крутая статья https://eldf.ru/machine-learning-base-article 
+- Курс от ODS: https://habr.com/ru/company/ods/blog/322626/ 
+- Некоторые полезные книжки: https://yadi.sk/d/uFG719fi1IM6HA?w=1
+- Еще курсы по ML:
+    - https://stepik.org/course/4852/syllabus
+    - https://www.coursera.org/learn/machine-learning  (Andrew Ng)
+    - https://yandexdataschool.ru/ (Яндекс ШАД)
+
+- ODS: https://ods.ai/ 
+- arXiv: https://arxiv.org/ 
+- TDS: https://towardsdatascience.com/
+- Kaggle: https://www.kaggle.com/ 
+- Reddit/ML: https://www.reddit.com/r/MachineLearning/ 
