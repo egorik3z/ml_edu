@@ -13,10 +13,10 @@
 ### Базовые практики
 
 - [Pr00_Python.ipynb](notebooks/Pr00_Python.ipynb) - ноутбук практики по самым-самым основам языка Python;
-- [Pr01_Numpy.ipynb](notebooks/Pr00_Python.ipynb) - ноутбук основным возможностям фреймворка `numpy` (работа с матрицами);
-- [Pr02_Matplotlib.ipynb](notebooks/Pr02_Matplotlib.ipynb) - ноутбук основным возможностям фреймворка `matplotlib` (визуализация данных);
-- [Pr03_Pandas.ipynb](notebooks/Pr03_Pandas.ipynb) - ноутбук основным возможностям фреймворка `pandas` (работа с табличными данными);
-- [Pr04_Seaborn.ipynb](notebooks/Pr04_Seaborn.ipynb) - ноутбук основным возможностям фреймворка `seaborn` (еще один фреймворк визуализации);
+- [Pr01_Numpy.ipynb](notebooks/Pr00_Python.ipynb) - ноутбук по основным возможностям фреймворка `numpy` (работа с матрицами);
+- [Pr02_Matplotlib.ipynb](notebooks/Pr02_Matplotlib.ipynb) - ноутбук по основным возможностям фреймворка `matplotlib` (визуализация данных);
+- [Pr03_Pandas.ipynb](notebooks/Pr03_Pandas.ipynb) - ноутбук по основным возможностям фреймворка `pandas` (работа с табличными данными);
+- [Pr04_Seaborn.ipynb](notebooks/Pr04_Seaborn.ipynb) - ноутбук по основным возможностям фреймворка `seaborn` (еще один фреймворк визуализации);
 
 ## Ресурсы
 
